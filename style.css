@@ -60,7 +60,7 @@ body{
 }
 @keyframes glow{
     0%, 100%{
-        color: #FF9999;
+        color: #FFB6C2;
         text-shadow: 0 0 12px #39c6d6, 0 0 50px #39c6d6, 0 0 100px #39c6d6;
     }
     10%, 90%{
@@ -171,7 +171,7 @@ body{
 
   color: rgba(255,255,255,.75);
   font-family: 'Anonymous Pro', monospace;  
-  background-color: rgb(100,100,100);  /* background layout */
+  background-color: rgb(119,136,153);                                   /* background layout */
 }
 .line-1{
     position: relative;
@@ -211,7 +211,7 @@ body{
     justify-content: center;
     padding: 28px 45%;
     letter-spacing: 1px;
-    color: #FF9999;                      /* text color */
+    color: #FFB6C2;                                                        /* text color */
     font-weight: normal;
     
 }
@@ -225,7 +225,7 @@ body{
     }
 }
 #pp_letter{
-    color:#FF9966;
+    color:#FFB6C2;
     letter-spacing: 1px;
     color:#fff; text-decoration: none; /* sunshine   */
 }
